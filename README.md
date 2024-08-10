@@ -1,16 +1,22 @@
-Project Overview:
+==>Project Overview:
 
 This project allows a POS system with one side for the cashier and one side for the customer.
+
 Data is passed in JSON format.
+
 Tested on various devices, including HiStone, AnyDesk, and Samsung Z Fold.
-Issue with Presentation Displays:
+
+==> Issue with Presentation Displays:
 
 Presentation Displays version 1.0.1 by Namit caused corruption and is not working in Release mode.
+
 Revert to Presentation Displays version 1.0.0.
-Changes Made:
+
+==>Changes Made:
 
 Custom Java methods have been written in the MainActivity.
-Usage Steps:
+Add Custom Method to auo detect & Connect with secondary Display
+==>Usage Steps:
 
 Paste the provided Java files into app > src > main > java > com.
 Update the first line in each Java file to match your project's package name.
