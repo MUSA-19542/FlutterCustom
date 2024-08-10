@@ -1,0 +1,1595 @@
+[
+    {
+      "errorCode": "PA0001",
+      "shortError": "Alert",
+      "detail": "Access denied! your session has been expired, you need to login again.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0002",
+      "shortError": "Alert",
+      "detail": "The resource you are looking for is currently not available, please try again, if error continues contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0003",
+      "shortError": "Alert",
+      "detail": "Error connecting, please try again and make sure you have stable internet connectivity.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0004",
+      "shortError": "Info",
+      "detail": "success",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0005",
+      "shortError": "Alert",
+      "detail": "Error connecting, please try again and make sure you have internet connectivity.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0006",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0007",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0008",
+      "shortError": "Alert",
+      "detail": "The resource you are looking is not available.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0009",
+      "shortError": "Alert",
+      "detail": "Unable to Print Invoice, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0010",
+      "shortError": "Alert",
+      "detail": "Unable to Print Cash Drop, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0011",
+      "shortError": "Alert",
+      "detail": "Unable to Print Payout, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0012",
+      "shortError": "Alert",
+      "detail": "Couldn't open Cash Drawer, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0013",
+      "shortError": "Alert",
+      "detail": "Operation took longer than expected, please try again.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0014",
+      "shortError": "Alert",
+      "detail": "Couldn't create new invoice, please restart the app and try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0015",
+      "shortError": "Alert",
+      "detail": "Unable to Void CC, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0016",
+      "shortError": "Alert",
+      "detail": "Invalid User Pin! Please provide valid Pin Information.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0017",
+      "shortError": "Alert",
+      "detail": "Invalid User Fingerprint! Please provide valid Fingerprint.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0018",
+      "shortError": "Alert",
+      "detail": "Username or Password is Incorrect. Please try again.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0019",
+      "shortError": "Alert",
+      "detail": "Please Complete Business Setup on Dashboard first!",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0020",
+      "shortError": "Alert",
+      "detail": "There is an issue with your transaction. Please contact Support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0021",
+      "shortError": "Alert",
+      "detail": "There is an issue with your transaction. Please contact Support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "PA0022",
+      "shortError": "Alert",
+      "detail": "Oops! All Eligible sale items in this invoice have already been returned.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0001907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0001903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0001904",
+      "shortError": "Information",
+      "detail": "No Resource Found.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0001901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0002907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0002903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0002904",
+      "shortError": "Information",
+      "detail": "No Resource Found.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0002901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0003900",
+      "shortError": "Alert",
+      "detail": "Customer not Created!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0003907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0003903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0003906",
+      "shortError": "Alert",
+      "detail": "Customer not Created!\nThe resource you are looking for is currently not available, please try again, if error continues contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0003919",
+      "shortError": "Alert",
+      "detail": "Customer not Created!\nProvided phone no. already exist.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0003901",
+      "shortError": "Alert",
+      "detail": "Customer not Created!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0004900",
+      "shortError": "Alert",
+      "detail": "Customer not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0004904",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0004903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0004906",
+      "shortError": "Alert",
+      "detail": "Customer not updated!\nThe resource you are looking for is currently not available, please try again, if error continues contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0004901",
+      "shortError": "Alert",
+      "detail": "Customer not Updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0005907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0005903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0005901",
+      "shortError": "Alert",
+      "detail": "Customer not Deactivated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0006907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0006903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0006901",
+      "shortError": "Alert",
+      "detail": "Customer not Deactivated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0007907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0007900",
+      "shortError": "Alert",
+      "detail": "Cannot Perform Search!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0007904",
+      "shortError": "Information",
+      "detail": "No Resource Found.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0007903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0007901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0008900",
+      "shortError": "Alert",
+      "detail": "Customer Info not Updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0008907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0008904",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0008903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "CMS0008901",
+      "shortError": "Alert",
+      "detail": "Customer Info not Updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0001907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0001910",
+      "shortError": "Alert",
+      "detail": "",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0001911",
+      "shortError": "Alert",
+      "detail": "Business name is already exist.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0001912",
+      "shortError": "Information",
+      "detail": "Signup process already completed.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0001903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0001901",
+      "shortError": "Alert",
+      "detail": "Business Information not Saved!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0002910",
+      "shortError": "Alert",
+      "detail": "Please provide valid phone number.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0002907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0002912",
+      "shortError": "Information",
+      "detail": "Signup process already completed.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0002903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0002901",
+      "shortError": "Alert",
+      "detail": "User not Created!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0002913",
+      "shortError": "Alert",
+      "detail": "User Id not exist.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0003907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0003912",
+      "shortError": "Information",
+      "detail": "Signup process already completed.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0003903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0003901",
+      "shortError": "Alert",
+      "detail": "User not created!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0004914",
+      "shortError": "Alert",
+      "detail": "Invalid activation link.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0004915",
+      "shortError": "Alert",
+      "detail": "Activation link has been expired.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0004903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0004901",
+      "shortError": "Alert",
+      "detail": "User not activated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0005903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0005901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0006916",
+      "shortError": "Alert",
+      "detail": "Email address is not valid.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0006910",
+      "shortError": "Alert",
+      "detail": "Phone number is not valid.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0006903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0006901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0007903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0007901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0008903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0008901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0009903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0009901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0010903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0010901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0011903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0011901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0012903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0012901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0013903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0013901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0014903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0014901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0014906",
+      "shortError": "Alert",
+      "detail": "Can't Log in. You need to sign-in using email/password.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0015907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0015917",
+      "shortError": "Alert",
+      "detail": "Please provide valid user card code.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0015903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0015904",
+      "shortError": "Alert",
+      "detail": "Invalid refresh token!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0015901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0016903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0016901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0017903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0017901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0018903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0018901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0019910",
+      "shortError": "Alert",
+      "detail": "Please enter valid phone number.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0019918",
+      "shortError": "Alert",
+      "detail": "This Phone number already exists.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS00199116",
+      "shortError": "Alert",
+      "detail": "Please enter valid email address.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0019903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0020903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0020901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0021903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0021901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0022903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0022901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0001901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0001903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0002901",
+      "shortError": "Alert",
+      "detail": "User not Updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0002903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0003901",
+      "shortError": "Alert",
+      "detail": "User not activated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0003903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0004901",
+      "shortError": "Alert",
+      "detail": "User not deactivated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0004903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0005900",
+      "shortError": "Alert",
+      "detail": "Please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0005903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0005901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0006901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0006903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0007900",
+      "shortError": "Alert",
+      "detail": "Location not created!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0007910",
+      "shortError": "Alert",
+      "detail": "Location not created!\nPhone number is not valid.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0007919",
+      "shortError": "Alert",
+      "detail": "Location not created!\nLocation name is already exist.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0007907",
+      "shortError": "Alert",
+      "detail": "Access denied! Please verify you have access to resource you trying to access.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0007903",
+      "shortError": "Success",
+      "detail": "Request Completed Successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0007901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0008900",
+      "shortError": "Alert",
+      "detail": "Location not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0008910",
+      "shortError": "Alert",
+      "detail": "Location not updated!\nPlease provide valid phone number.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0008904",
+      "shortError": "Alert",
+      "detail": "Location not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0008919",
+      "shortError": "Alert",
+      "detail": "Location not updated!\nLocation name is already exist.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0008903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0009900",
+      "shortError": "Alert",
+      "detail": "Register not created!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0009919",
+      "shortError": "Alert",
+      "detail": "Register not created!\nRegister name is already exist.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0009903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0009901",
+      "shortError": "Alert",
+      "detail": "Register not created!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0010904",
+      "shortError": "Alert",
+      "detail": "The resource you are looking for is not exist.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0010900",
+      "shortError": "Alert",
+      "detail": "Please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0010903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0011900",
+      "shortError": "Alert",
+      "detail": "Register not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0011904",
+      "shortError": "Alert",
+      "detail": "Register not updated!\nThe resource you are looking for is not exist.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0011903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0011901",
+      "shortError": "Alert",
+      "detail": "Register not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0012900",
+      "shortError": "Alert",
+      "detail": "Cash drop configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0012904",
+      "shortError": "Alert",
+      "detail": "Cash drop configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0012903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0012901",
+      "shortError": "Alert",
+      "detail": "Cash drop configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0013900",
+      "shortError": "Alert",
+      "detail": "Cash handling configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0013904",
+      "shortError": "Alert",
+      "detail": "Cash handling configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0013903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0013901",
+      "shortError": "Alert",
+      "detail": "Cash handling configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0014900",
+      "shortError": "Alert",
+      "detail": "Security configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0014904",
+      "shortError": "Alert",
+      "detail": "Security configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0014903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0014901",
+      "shortError": "Alert",
+      "detail": "Security configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0015900",
+      "shortError": "Alert",
+      "detail": "Tax configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0015904",
+      "shortError": "Alert",
+      "detail": "Tax configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0015903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0015901",
+      "shortError": "Alert",
+      "detail": "Tax configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0016900",
+      "shortError": "Alert",
+      "detail": "Cash Drawer configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0016904",
+      "shortError": "Alert",
+      "detail": "Cash Drawer configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0016903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0016901",
+      "shortError": "Alert",
+      "detail": "Cash Drawer configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0017900",
+      "shortError": "Alert",
+      "detail": "Printing configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0017904",
+      "shortError": "Alert",
+      "detail": "Printing configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0017903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0017901",
+      "shortError": "Alert",
+      "detail": "Printing configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0018900",
+      "shortError": "Alert",
+      "detail": "Tender configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0018904",
+      "shortError": "Alert",
+      "detail": "Tender configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0018903",
+      "shortError": "Success",
+      "detail": "Request completed successfuly.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0018901",
+      "shortError": "Alert",
+      "detail": "Tender configurations not updated!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0021903",
+      "shortError": "Alert",
+      "detail": "Password Not Changed!\nOld password you entered is incorrect.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0021901",
+      "shortError": "Alert",
+      "detail": "Password not Changed!!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "OPS0004921",
+      "shortError": "Alert",
+      "detail": "Invoice Locked! Please make sure that invoice not open on another register.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0009924",
+      "shortError": "Alert",
+      "detail": "Can't add Register! You have already reached max no. of registers.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AMS0007923",
+      "shortError": "Alert",
+      "detail": "Can't add Location! You have already reached max no. of locations.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "AS0014904",
+      "shortError": "Alert",
+      "detail": "Please provide correct information.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "OPS0001901",
+      "shortError": "Alert",
+      "detail": "Something went wrong, please try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "OPS0008900",
+      "shortError": "Alert",
+      "detail": "Till not added/removed!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "OPS0008919",
+      "shortError": "Alert",
+      "detail": "Till not added!Till already exist with that number",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "OPS0008904",
+      "shortError": "Alert",
+      "detail": "Till not removed!\nPlease provide valid Till Number.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "OPS0008901",
+      "shortError": "Alert",
+      "detail": "Till not added/removed!\nPlease try again. If error continues please contact your support person.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "OPS0008906",
+      "shortError": "Alert",
+      "detail": "Till not removed!\nPlease make sure System cash is valid.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "OPS0008932",
+      "shortError": "Alert",
+      "detail": "Till number already active for the day, please choose a different till number.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "OPS0008934",
+      "shortError": "Alert",
+      "detail": "Till number already used for the day, please choose a different till number.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    },
+    {
+      "errorCode": "OPS0008933",
+      "shortError": "Alert",
+      "detail": "Till number already active on another register for the day, please choose a different till number.",
+      "action": 0,
+      "TitleResource": 0,
+      "messageResource": 0
+    }
+  ]
+  

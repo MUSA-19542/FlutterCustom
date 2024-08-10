@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "message": "Request Completed Successfully",
+    "responseStatusCode": 903,
+    "data": {
+        "locationId": 1670001,
+        "registerId": 1670001001,
+        "terminalId": "1670001001",
+        "secureDevice": "Lane 7000",
+        "merchantId": "123456",
+        "comPort": 0,
+        "ipPort": 0,
+        "giftEpayIPPort": 0,
+        "port": "80",
+        "electronicTenderType": 0,
+        "stageLevel": 2,
+        "ecrTimeOut": "300000",
+        "id": "1697019952388",
+        "createdDate": "2023-10-11T10:25:52.3889292",
+        "partitionKey": "1670001001"
+    },
+    "code": "AMS0099903",
+    "totalRecords": 0,
+    "elapsedTime": "139",
+    "showThisMessage": false
+}

@@ -1,0 +1,111 @@
+{
+    "success": true,
+    "message": "Request Completed Successfully ",
+    "responseStatusCode": 903,
+    "data": [
+        {
+            "manufacturerName": "Unknown",
+            "isActive": true,
+            "isDefault": true,
+            "lastEdited": "2023-10-06T06:31:35.9029136",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "1696573895902",
+            "createdDate": "2023-10-06T06:31:35.902914"
+        },
+        {
+            "manufacturerName": "Test Manu...",
+            "isActive": true,
+            "isDefault": true,
+            "lastEdited": "2023-10-06T06:32:00.9516846",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965739003092287",
+            "createdDate": "2023-10-06T06:32:00.9516847"
+        },
+        {
+            "manufacturerName": "CBDism",
+            "isActive": true,
+            "isDefault": false,
+            "lastEdited": "2023-10-10T13:43:11.9060179",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965739003132289",
+            "createdDate": "2023-10-10T13:43:11.9060186"
+        },
+        {
+            "manufacturerName": "10001",
+            "isActive": true,
+            "isDefault": true,
+            "lastEdited": "2023-10-06T06:32:01.0113365",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965739003152290",
+            "createdDate": "2023-10-06T06:32:01.0113367"
+        },
+        {
+            "manufacturerName": "3CHI",
+            "isActive": true,
+            "isDefault": true,
+            "lastEdited": "2023-10-06T06:52:26.6744173",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965751440520",
+            "createdDate": "2023-10-06T06:52:26.6744179"
+        },
+        {
+            "manufacturerName": "MWI",
+            "isActive": true,
+            "isDefault": true,
+            "lastEdited": "2023-10-06T06:52:26.7705805",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965751440562",
+            "createdDate": "2023-10-06T06:52:26.7705806"
+        },
+        {
+            "manufacturerName": "B-Line",
+            "isActive": true,
+            "isDefault": true,
+            "lastEdited": "2023-10-06T06:52:26.7817891",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965751440646",
+            "createdDate": "2023-10-06T06:52:26.7817892"
+        },
+        {
+            "manufacturerName": "Sulcanna",
+            "isActive": true,
+            "isDefault": true,
+            "lastEdited": "2023-10-06T06:52:26.8085116",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "169657514408818",
+            "createdDate": "2023-10-06T06:52:26.8085117"
+        },
+        {
+            "manufacturerName": "BIC",
+            "isActive": true,
+            "isDefault": true,
+            "lastEdited": "2023-10-06T06:52:26.8166665",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "169657514409622",
+            "createdDate": "2023-10-06T06:52:26.8166666"
+        },
+        {
+            "manufacturerName": "Other",
+            "isActive": true,
+            "isDefault": true,
+            "lastEdited": "2023-10-06T06:52:26.8186763",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "169657514409823",
+            "createdDate": "2023-10-06T06:52:26.8186764"
+        }
+    ],
+    "code": "IMS0042903",
+    "totalRecords": 137,
+    "elapsedTime": "285",
+    "showThisMessage": false
+}

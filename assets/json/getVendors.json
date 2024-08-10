@@ -1,0 +1,111 @@
+{
+    "success": true,
+    "message": "Request Completed Successfully ",
+    "responseStatusCode": 903,
+    "data": [
+        {
+            "vendorName": "Unknown",
+            "company": "Unknown",
+            "isActive": true,
+            "lastEdited": "2023-10-06T06:31:35.944145",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "1696573895944",
+            "createdDate": "2023-10-06T06:31:35.9441455"
+        },
+        {
+            "vendorName": "Test Ven...",
+            "company": "Test Ven...",
+            "isActive": true,
+            "lastEdited": "2023-10-06T06:32:01.0096774",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965739003112288",
+            "createdDate": "2023-10-06T06:32:01.0096777"
+        },
+        {
+            "vendorName": "Texian HerbaCeutical",
+            "company": "Texian HerbaCeutical",
+            "isActive": true,
+            "lastEdited": "2023-10-06T06:32:01.0107651",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965739003132289",
+            "createdDate": "2023-10-06T06:32:01.0107652"
+        },
+        {
+            "vendorName": "112233",
+            "company": "112233",
+            "isActive": true,
+            "lastEdited": "2023-10-06T06:32:01.0113549",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965739003152290",
+            "createdDate": "2023-10-06T06:32:01.011355"
+        },
+        {
+            "vendorName": "3CHI",
+            "company": "3CHI",
+            "isActive": true,
+            "lastEdited": "2023-10-06T06:52:26.6752802",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965751440520",
+            "createdDate": "2023-10-06T06:52:26.6752806"
+        },
+        {
+            "vendorName": "MWI",
+            "company": "MWI",
+            "isActive": true,
+            "lastEdited": "2023-10-06T06:52:26.7614645",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965751440541",
+            "createdDate": "2023-10-06T06:52:26.7614647"
+        },
+        {
+            "vendorName": "B-Line CBD",
+            "company": "B-Line CBD",
+            "isActive": true,
+            "lastEdited": "2023-10-06T06:52:26.7818443",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "16965751440646",
+            "createdDate": "2023-10-06T06:52:26.7818445"
+        },
+        {
+            "vendorName": "Sulcanna",
+            "company": "Sulcanna",
+            "isActive": true,
+            "lastEdited": "2023-10-06T06:52:26.8085401",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "169657514408818",
+            "createdDate": "2023-10-06T06:52:26.8085402"
+        },
+        {
+            "vendorName": "Toro",
+            "company": "Toro",
+            "isActive": true,
+            "lastEdited": "2023-10-06T06:52:26.8186958",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "169657514409823",
+            "createdDate": "2023-10-06T06:52:26.8186959"
+        },
+        {
+            "vendorName": "CBDism",
+            "company": "CBDism",
+            "isActive": true,
+            "lastEdited": "2023-10-06T06:52:26.8367177",
+            "isDeleted": false,
+            "sellType": "both",
+            "id": "169657514411632",
+            "createdDate": "2023-10-06T06:52:26.8367178"
+        }
+    ],
+    "code": "IMS0078903",
+    "totalRecords": 24,
+    "elapsedTime": "276",
+    "showThisMessage": false
+}
