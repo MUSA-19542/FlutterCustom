@@ -29,6 +29,7 @@ Thank me later if it helps!
 
 First test apk then check https://drive.google.com/drive/folders/1bSCmcxjV5A41853rTQbOI_5QxQ_dzZZM 
 
-![image](https://github.com/user-attachments/assets/b14d8b56-5cda-4209-a2ae-f24a54cc0806)
+
+![POS-system-ezgif com-jpg-to-png-converter](https://github.com/user-attachments/assets/c169d164-3bd2-43cf-ac16-b3ba8113f990)
 
 
